@@ -1,0 +1,10 @@
+C:\Users\jovan\source\repos\Zastita\Zastita\bin\Debug\Zastita.exe.config
+C:\Users\jovan\source\repos\Zastita\Zastita\bin\Debug\Zastita.exe
+C:\Users\jovan\source\repos\Zastita\Zastita\bin\Debug\Zastita.pdb
+C:\Users\jovan\source\repos\Zastita\Zastita\obj\Debug\Zastita.csproj.AssemblyReference.cache
+C:\Users\jovan\source\repos\Zastita\Zastita\obj\Debug\Zastita.Form1.resources
+C:\Users\jovan\source\repos\Zastita\Zastita\obj\Debug\Zastita.Properties.Resources.resources
+C:\Users\jovan\source\repos\Zastita\Zastita\obj\Debug\Zastita.csproj.GenerateResource.cache
+C:\Users\jovan\source\repos\Zastita\Zastita\obj\Debug\Zastita.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\Zastita\Zastita\obj\Debug\Zastita.exe
+C:\Users\jovan\source\repos\Zastita\Zastita\obj\Debug\Zastita.pdb
